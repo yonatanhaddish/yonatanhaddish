@@ -1,30 +1,46 @@
-# Hi, I'm Yonatan 👋
+# Hi, I'm Yonatan Haddish 👋
 
-Full Stack Engineer focused on building scalable web applications and AI-powered products.
+Full Stack Software Engineer passionate about building scalable web applications, intelligent automation solutions, and AI-powered products that solve real-world business challenges.
 
-## 🚀 Current Projects
+I enjoy transforming ideas into production-ready platforms, from concept and architecture to deployment and growth. My work spans marketplace platforms, AI-driven applications, SaaS products, and modern web solutions designed for performance, usability, and scalability.
+
+## 🚀 Featured Projects
 
 ### CareBridge AI
-AI-powered caregiver matching platform.
+
+An intelligent caregiver matching and booking platform that connects service seekers with qualified care providers through smart search, scheduling, and availability management.
 
 ### Studio XVII
-AI-generated pet and baby portraits.
+
+A custom AI portrait platform that transforms pet and baby photos into premium artwork, combining generative AI, e-commerce, and personalized customer experiences.
 
 ### Edaga
-Marketplace connecting Eritrean communities.
 
-## 💻 Technologies
+A community-focused marketplace that enables diaspora families to purchase and deliver goods and services to loved ones abroad.
 
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Node.js
-- PostgreSQL
-- Supabase
-- AI & LLM Integration
+### CB Trucking
 
-## 📫 Contact
+A transportation marketplace connecting load owners with van and sprinter drivers for efficient local freight delivery.
 
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: yonihailshn@gmail.com
+## 💻 Technologies & Expertise
+
+* Full Stack Development
+* JavaScript & TypeScript
+* React & Next.js
+* Node.js & REST APIs
+* PostgreSQL & Supabase
+* AI & LLM Integrations
+* System Design & Architecture
+* Cloud Deployment & Automation
+
+## 🌱 Currently Exploring
+
+* AI Engineering & Agentic Workflows
+* Retrieval-Augmented Generation (RAG)
+* Scalable SaaS Architectures
+* Workflow Automation & Intelligent Systems
+
+## 📫 Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/yonatan-haddish/
+* Email: [yonihailshn@gmail.com](mailto:yonihailshn@gmail.com)
