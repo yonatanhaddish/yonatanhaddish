@@ -18,9 +18,6 @@ A custom AI portrait platform that transforms pet and baby photos into premium a
 
 A community-focused marketplace that enables diaspora families to purchase and deliver goods and services to loved ones abroad.
 
-### CB Trucking
-
-A transportation marketplace connecting load owners with van and sprinter drivers for efficient local freight delivery.
 
 ## 💻 Technologies & Expertise
 
